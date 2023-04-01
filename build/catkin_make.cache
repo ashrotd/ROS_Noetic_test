@@ -1,0 +1,2 @@
+test_controller
+-DCATKIN_DEVEL_PREFIX=/home/ashrot/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ashrot/catkin_ws/install -G Unix Makefiles

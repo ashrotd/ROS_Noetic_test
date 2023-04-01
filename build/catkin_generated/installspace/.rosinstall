@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ashrot/catkin_ws/install/setup.sh
